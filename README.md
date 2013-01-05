@@ -1,2 +1,5 @@
 dotfiles
 ========
+
++ .bashrc
++ .vimrc
